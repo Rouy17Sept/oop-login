@@ -1,0 +1,159 @@
+/* Global styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Header styles */
+header {
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+    padding: 20px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav h3 {
+    font-size: 1.5rem;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+nav li {
+    margin: 0 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+}
+
+/* Index intro styles */
+.index-intro {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../images/bg.jpg);
+    background-size: cover;
+}
+
+.index-intro-bg {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 30px;
+}
+
+.index-intro-c1 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.index-intro-c1 p {
+    margin-left: 20px;
+}
+
+.index-intro-c2 h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.index-intro-c2 p {
+    margin-bottom: 30px;
+}
+
+.btn {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    text-decoration: none;
+    display: inline-block;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #555;
+}
+
+/* Index login styles */
+.index-login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f2f2f2;
+}
+
+.index-login-signup,
+.index-login-login {
+    background-color: #fff;
+    padding: 30px;
+    margin-right: 30px;
+    border-radius: 4px;
+}
+
+.index-login h4 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+.index-login p {
+    margin-bottom: 30px;
+}
+
+.index-login form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.index-login input {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+.index-login button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    text-decoration: none;
+    display: inline-block;
+    transition: background-color 0.3s;
+    cursor: pointer;
+}
+
+.index-login button:hover {
+    background-color: #555;
+}
+
+.video {
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+    background-color: #333;
+    position: relative;
+}
+
+.img {
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+    background-color: #333;
+    position: relative;
+}
