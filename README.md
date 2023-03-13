@@ -23,11 +23,10 @@ git clone https://github.com/Rouy17Sept/oop-login.git
 
 Then, copy the files to your web server or local machine running PHP.
 
-## Personal portfolio website 
-
-[Youri Jilderda](https://yjilderda.nl)
-
 ## Acknowledgments
 
 [Youtube - Dani Krossing](https://www.youtube.com/@Dani_Krossing)
 
+## Personal portfolio website 
+
+[Youri Jilderda](https://yjilderda.nl)
