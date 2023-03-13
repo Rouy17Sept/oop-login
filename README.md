@@ -1,5 +1,5 @@
 
-# Login and Signup Form with PHP OOP and PDO 
+# Login and Signup Form - PHP OOP & PDO 
 
 PHP OOP script for a login and signup form. The script uses PDO to connect to a MySQL database.
 
