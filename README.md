@@ -29,5 +29,5 @@ Then, copy the files to your web server or local machine running PHP.
 
 ## Acknowledgments
 
-* [Youtube - Dani Krossing](https://www.youtube.com/@Dani_Krossing)
+[Youtube - Dani Krossing](https://www.youtube.com/@Dani_Krossing)
 
