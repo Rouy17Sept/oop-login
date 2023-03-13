@@ -27,10 +27,6 @@ Then, copy the files to your web server or local machine running PHP.
 
 [Youri Jilderda](https://yjilderda.nl)
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
 ## Acknowledgments
 
 * [Youtube - Dani Krossing](https://www.youtube.com/@Dani_Krossing)
